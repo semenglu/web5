@@ -10,7 +10,7 @@ function proiz()
       else
       {
         a1[0]=Number.parseInt(a1[0]);
-        a3.innerHTML="Ответ: "+c;
+        a1.innerHTML="Ответ: "+c;
       }
 }
 window.addEventListener('DOMContentLoaded', function (event) {
